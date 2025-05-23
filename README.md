@@ -97,7 +97,7 @@ This plan will take you step-by-step from code to production for your full-stack
 - [ ] CORS configured
 - [ ] Frontend points to backend API
 - [ ] All core flows tested (upload, parse, tailor, generate, export)
-- [ ] Documentation (README) updated
+- [x] Documentation (README) updated
 
 ---
 
